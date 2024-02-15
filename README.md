@@ -25,14 +25,14 @@ python create_mnistm.py
 
 #### Experiments on Federated Domain Adaptation:
 ---
-Usage for supervised training on source domain at Phase S_0:
+Usage for supervised training on source domain at Phase S0:
 ```
-python experiment.py -train_mod='sup_train' -SUP_EPOCHS=10 -adv_loss='MDD' -ckpt_path=$CHECKPOINT_SAVE_DIR  
+python experiment.py -train_mod='sup_train' -SUP_EPOCHS=10 -adv_loss='MDD' -ckpt_path=$CHECKPOINT_SAVE_S0_DIR  
 ```
 
-Usage for continual adversarail domain adaptation using domain domain discriminators: 
+Usage for continual adversarial domain adaptation using domain domain discriminators: 
 ```
-python experiment.py -SUP_EPOCHS=10 -SR_DISC_EPOCHS=5 -DA_EPOCHS=100 -adv_loss='MDD' -ckpt_path=$CHECKPOINT_SAVE_DIR  
+python experiment.py -SUP_EPOCHS=10 -SR_DISC_EPOCHS=5 -DA_EPOCHS=100 -adv_loss='MDD' -ckpt_path=$CHECKPOINT_SAVE_S0  
 ```
 
 ### Reference
