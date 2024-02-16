@@ -39,9 +39,9 @@ python experiment.py -SUP_EPOCHS=10 -SR_DISC_EPOCHS=5 -DA_EPOCHS=100 -adv_loss='
 ---
 
 ```
-@misc{2110.08477,
-Author = {Yan Shen, Jian Du, Han Zhao, Benyu Zhang, Zhanghexuan Ji, Mingchen Gao},
-Title = {FedMM: Saddle Point Optimization for Federated Adversarial Domain Adaptation},
-Year = {2021},
-Eprint = {arXiv:2110.08477},
+@misc{2402.03588},
+Author = {Yan Shen, Zhanghexuan Ji, Chunwei Ma, Mingchen Gao},
+Title = {Continual Domain Adversarial Adaptation via Double-Head Discriminators},
+Year = {2024},
+Eprint = {arXiv:2402.03588},
 }
