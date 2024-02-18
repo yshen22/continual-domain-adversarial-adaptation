@@ -1,4 +1,4 @@
-This repository contains the code accompanying the paper  "
+This repository contains the code accompanying the AISTATS2024 paper  "
 Continual Domain Adversarial Adaptation via Double-Head Discriminators " Paper[link](https://arxiv.org/pdf/2402.03588.pdf): 
 
 ![network structure](algorithm_flow.png  "Problem description")
