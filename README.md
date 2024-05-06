@@ -39,12 +39,6 @@ python experiment.py -SUP_EPOCHS=10 -SR_DISC_EPOCHS=5 -DA_EPOCHS=100 -adv_loss='
 ---
 
 ```
-@misc{2402.03588},
-Author = {Yan Shen, Zhanghexuan Ji, Chunwei Ma, Mingchen Gao},
-Title = {Continual Domain Adversarial Adaptation via Double-Head Discriminators},
-Year = {2024},
-Eprint = {arXiv:2402.03588},
-}
 
 @InProceedings{pmlr-v238-shen24a,
   title = 	 { Continual Domain Adversarial Adaptation via Double-Head Discriminators },
