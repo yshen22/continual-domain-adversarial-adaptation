@@ -1,5 +1,5 @@
 This repository contains the code accompanying the AISTATS2024 paper  "
-Continual Domain Adversarial Adaptation via Double-Head Discriminators " Paper[link](https://arxiv.org/pdf/2402.03588.pdf): 
+Continual Domain Adversarial Adaptation via Double-Head Discriminators " Paper[link](https://proceedings.mlr.press/v238/shen24a/shen24a.pdf): 
 
 ![network structure](algorithm_flow.png  "Problem description")
 
@@ -44,4 +44,17 @@ Author = {Yan Shen, Zhanghexuan Ji, Chunwei Ma, Mingchen Gao},
 Title = {Continual Domain Adversarial Adaptation via Double-Head Discriminators},
 Year = {2024},
 Eprint = {arXiv:2402.03588},
+}
+
+@InProceedings{pmlr-v238-shen24a,
+  title = 	 { Continual Domain Adversarial Adaptation via Double-Head Discriminators },
+  author =       {Shen, Yan and Ji, Zhanghexuan and Ma, Chunwei and Gao, Mingchen},
+  booktitle = 	 {Proceedings of The 27th International Conference on Artificial Intelligence and Statistics},
+  pages = 	 {2584--2592},
+  year = 	 {2024},
+  editor = 	 {Dasgupta, Sanjoy and Mandt, Stephan and Li, Yingzhen},
+  volume = 	 {238},
+  series = 	 {Proceedings of Machine Learning Research},
+  month = 	 {02--04 May},
+  publisher =    {PMLR},
 }
